@@ -1,4 +1,3 @@
-import { describe } from "yargs";
 import { login } from "./login";
 
 describe("redness", () => {
